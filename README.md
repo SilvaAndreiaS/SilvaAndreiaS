@@ -46,6 +46,8 @@
 
 ## Languages and Tools:
 
+## Languages and Tools:
+
 <p align="left"> 
   <a href="https://www.android.com/" target="_blank" rel="noreferrer"> 
     <img src="icons/android.svg" alt="Android" width="40" height="40" />
@@ -86,6 +88,9 @@
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
     <img src="icons/r.svg" alt="R" width="50" height="40" /> 
   </a> 
+</p>
+
+<p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="icons/html5.svg" alt="HTML5" width="40" height="40" /> 
   </a>
@@ -113,6 +118,9 @@
   <a href="https://code.visualstudio.com/brand" target="_blank" rel="noreferrer"> 
     <img src="icons/vscode.png" alt="VSCode" width="40" height="40" /> 
   </a> 
+</p>
+
+<p align="left">
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
     <img src="icons/jupyter.png" alt="Jupyter" width="40" height="45" /> 
   </a> 
@@ -128,7 +136,7 @@
   <a href="https://survey123.arcgis.com/" target="_blank" rel="noreferrer"> 
     <img src="icons/survey123.png" alt="Survey123" width="40" height="40" /> 
   </a> 
-  <a href="https://www.esri.com/en-us/arcgis/products/arcgis-dashboards/overview" target="_black" rel="noreferrer"> 
+  <a href="https://www.esri.com/en-us/arcgis/products/arcgis-dashboards/overview" target="_blank" rel="noreferrer"> 
     <img src="icons/arcgisdashboards.png" alt="ArcGis Dashboards" width="40" height="40" /> 
   </a> 
   <a href="https://www.adobe.com/za/products/premiere.html" target="_blank" rel="noreferrer"> 
@@ -139,15 +147,3 @@
   </a>
 </p>
 
-<!--
-**wesleymarchi/wesleymarchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
