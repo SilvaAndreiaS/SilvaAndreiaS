@@ -1,6 +1,6 @@
 ### Hello My Name Andreia Souza 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreiasouzasantana/)[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SilvaAndreiaS)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/an.dreiasou?igsh=MW5vc3N1cXRsaWFvcQ%3D%3D&utm_source=qr)[![Android Developers](https://img.shields.io/badge/Android-Developers-brightgreen)](https://developer.android.com/)[![Google Developers - Andreia Souza](https://img.shields.io/badge/Google%20Developers-Andreia%20Souza-blue?logo=google)](https://g.dev/AndreiaSouzaS)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreiasouzasantana/)[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SilvaAndreiaS)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/an.dreiasou?igsh=MW5vc3N1cXRsaWFvcQ%3D%3D&utm_source=qr)[!](https://g.dev/AndreiaSouzaS)![Android Developers](https://img.shields.io/badge/Android-Developers-brightgreen)
 
 ## Tecnologias Que  Utilizo 
 
