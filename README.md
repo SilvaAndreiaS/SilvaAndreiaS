@@ -26,10 +26,5 @@
 </div>
 
 
-<div id="header" align="center">
-    <iframe src="https://giphy.com/embed/Du7zw6b3mTq1THBcv3" width="100%" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-    <p><a href="https://giphy.com/stickers/minogames-party-lets-puff-Du7zw6b3mTq1THBcv3">via GIPHY</a></p>
-</div>
-
 
 
