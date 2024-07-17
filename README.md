@@ -128,7 +128,7 @@
   <a href="https://survey123.arcgis.com/" target="_blank" rel="noreferrer"> 
     <img src="icons/survey123.png" alt="Survey123" width="40" height="40" /> 
   </a> 
-  <a href="https://www.esri.com/en-us/arcgis/products/arcgis-dashboards/overview" target="_blank" rel="noreferrer"> 
+  <a href="https://www.esri.com/en-us/arcgis/products/arcgis-dashboards/overview" target="_black" rel="noreferrer"> 
     <img src="icons/arcgisdashboards.png" alt="ArcGis Dashboards" width="40" height="40" /> 
   </a> 
   <a href="https://www.adobe.com/za/products/premiere.html" target="_blank" rel="noreferrer"> 
