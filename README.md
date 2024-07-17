@@ -1,6 +1,7 @@
 
 
-### Hello, My Name is Andreia Souza! 👋
+### Hi there My Name is Andreia Souza!👋
+### I'm Software Engineering
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreiasouzasantana/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SilvaAndreiaS)
@@ -23,12 +24,6 @@
 
 
 
-## Hi there 👋
-### I'm Wesley Marchi. 
-### A passionate data analyst from Brazil.
-
-📝I regulary write articles on [Medium](https://medium.com/@wesleymarchi)
-<br />📄Know about my experiences [LinkedIn](https://www.linkedin.com/in/wesleymarchi/)
 
 <div>
   <p>
