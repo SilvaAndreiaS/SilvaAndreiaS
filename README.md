@@ -9,7 +9,7 @@
 
 <img align="right" src="[URL_DA_IMAGEM](https://th.bing.com/th/id/OIP._2OtLWsVi5uknfY1R3aFuQHaEK?rs=1&pid=ImgDetMain)" width="200">
 
-## Tecnologias Que Utilizo
+## Technologies I Use
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
