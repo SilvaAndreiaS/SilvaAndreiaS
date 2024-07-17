@@ -27,33 +27,5 @@
 
 ![snake gif](https://github.com/SilvaAndreiaS/SilvaAndreiaS/blob/output/github-contribution-grid-snake.svg)
 
-name: Generate Snake Animation
 
-on:
-  schedule: # execute every 12 hours
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout the repository
-        uses: actions/checkout@v2
-
-      - name: Generate snake animation
-        uses: Platane/snk@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: "github-contribution-grid-snake.svg"
-
-      - name: Commit and push if changes are made
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add github-contribution-grid-snake.svg
-          git commit -m "Generated snake animation"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
