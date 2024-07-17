@@ -1,6 +1,6 @@
 
 
-### Hi there My Name is Andreia Souza!👋![Gatinho festejando](https://media.giphy.com/media/Du7zw6b3mTq1THBcv3/giphy.gif)
+### Hi there My Name is Andreia Souza!👋<img src="https://media.giphy.com/media/Du7zw6b3mTq1THBcv3/giphy.gif" width="200" alt="Gatinho festejando" />
 ### I'm Software Engineering
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreiasouzasantana/)
