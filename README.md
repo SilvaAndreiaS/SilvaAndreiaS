@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Tecnologias que eu uso:
+## 🚀Technologies I use:
 
 <div style="display: inline-block;"><br/>
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -22,15 +22,14 @@
 
 
 
-## 🤝 Como me encontrar:
+## 🤝 How to find me:
 
-Sinta-se à vontade para me enviar uma mensagem ou me conectar nas redes sociais abaixo! Adoro colaborar em projetos open-source ou conversar sobre desenvolvimento de software.
+Feel free to send me a message or connect with me on social media below! I love collaborating on open-source projects or chatting about software development.
 
-**Obrigado por visitar meu perfil GitHub!** 😄
+**Thanks for visiting my GitHub profile!** 😄
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreiasouzasantana/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/an.dreiasou?igsh=MW5vc3N1cXRsaWFvcQ%3D%3D&utm_source=qr)
 
 
-**Obrigado por visitar meu perfil GitHub!** 😄
 
