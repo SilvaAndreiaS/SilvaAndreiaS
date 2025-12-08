@@ -16,34 +16,7 @@
 > Acessibilidade digital e Tecnologia aasistiva com a  formação é complementada por uma Pós-Graduação em Ética em IA, que direciona o desenvolvimento de soluções robustas com foco em inovação, diversidade, impacto social e responsabilidade  pilares essenciais para a Engenharia de Computação e Pesquisa.
 <br>
 
----
 
-
-
-
-
-## 🎓 Formação Avançada e Pesquisa
-
-Minha trajetória acadêmica é focada na intersecção entre Engenharia, Ética em IA, Análise de Dados e Sustentabilidade, com múltiplas especializações em andamento:
-
-<div style="margin: 0 auto; max-width: 650px;">
-* **Especialização em Ética em IA (UFPB):**
-    * Tese em andamento focada na análise ética no desenvolvimento e aplicação de IA.
-    * Status: Em andamento (Início: Abril/2025).
-
-* **MBA em Agronegócios (ESALQ/USP):**
-    * Projeto focado na aplicação de estratégias e tecnologias no setor agrícola, com ênfase em desenvolvimento de projetos.
-    * Status: Em andamento (Início: Abril/2025).
-
-* **Pós-Graduação em Gestão de Agronegócios (IFMT):**
-    * Projeto focado no desenvolvimento de soluções sustentáveis para o Agronegócio, aplicando tecnologias à gestão.
-    * Status: Em andamento (Início: Abril/2025).
-
-* **Pós-Graduação em IA & ML (PUC-Minas):**
-    * Reforça a expertise em desenvolvimento e aplicação de sistemas inteligentes (Incluída para manter a coerência com seus badges e título principal).
-</div>
-
----
 
 ## 🚀 Stack de Desenvolvimento 
 
