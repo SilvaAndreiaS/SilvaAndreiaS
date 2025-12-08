@@ -1,35 +1,112 @@
+# Andreia Souza S.
+
+### Engenheira de Computação | Pós-Graduada em Ética em IA | Especialista em Big Data Analytics
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Pós--Graduação%20UFPB-Ética%20em%20IA-2ECC71?style=for-the-badge&logo=openai&logoColor=white" alt="Especialização em Ética e IA (UFPB)"/>
+    <img src="https://img.shields.io/badge/PUC--Minas-IA%20%26%20ML-007ACC?style=for-the-badge&logo=pytorch&logoColor=white" alt="Pós-Graduação em IA e ML (PUC-Minas)"/>
+    <img src="https://img.shields.io/badge/UFSJ-Cibersegurança-000000?style=for-the-badge&logo=databricks&logoColor=white" alt="Pós-Graduação em Cibersegurança (UFSJ)"/>
+    <img src="https://img.shields.io/badge/ESALQ%2FUSP-Agrocomputação-4E9059?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="MBA em Agrocomputação (ESALQ/USP)"/>
+    <img src="https://img.shields.io/badge/IFMT-DevOps%20%26%20Hiperautomação-FF69B4?style=for-the-badge&logo=devops&logoColor=white" alt="Pós-Graduação em DevOps (IFMT)"/>
+</div>
+
+> Minha trajetória profissional e acadêmica combina uma sólida formação com experiência prática em grandes corporações. Sou Bacharelada em Big Data Analytics e possuo expertise em Engenharia de Software. Minha base analítica e técnica inclui automação, análise de dados (Power BI) e acessibilidade digital. Esta formação é complementada por uma Pós-Graduação em Ética em IA , que direciona o desenvolvimento de soluções robustas com foco em inovação, diversidade, impacto social e responsabilidade.
 
 
-### Hi there My Name is Andreia Souza!👋
-### I'm Software Engineering
+> Acessibilidade digital e Tecnologia aasistiva com a  formação é complementada por uma Pós-Graduação em Ética em IA, que direciona o desenvolvimento de soluções robustas com foco em inovação, diversidade, impacto social e responsabilidade  pilares essenciais para a Engenharia de Computação e Pesquisa.
+<br>
 
 ---
 
-## 🚀Technologies I use:
 
-<div style="display: inline-block;"><br/>
-<img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img align="center" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-<img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+
+
+## 🎓 Formação Avançada e Pesquisa
+
+Minha trajetória acadêmica é focada na intersecção entre Engenharia, Ética em IA, Análise de Dados e Sustentabilidade, com múltiplas especializações em andamento:
+
+<div style="margin: 0 auto; max-width: 650px;">
+* **Especialização em Ética em IA (UFPB):**
+    * Tese em andamento focada na análise ética no desenvolvimento e aplicação de IA.
+    * Status: Em andamento (Início: Abril/2025).
+
+* **MBA em Agronegócios (ESALQ/USP):**
+    * Projeto focado na aplicação de estratégias e tecnologias no setor agrícola, com ênfase em desenvolvimento de projetos.
+    * Status: Em andamento (Início: Abril/2025).
+
+* **Pós-Graduação em Gestão de Agronegócios (IFMT):**
+    * Projeto focado no desenvolvimento de soluções sustentáveis para o Agronegócio, aplicando tecnologias à gestão.
+    * Status: Em andamento (Início: Abril/2025).
+
+* **Pós-Graduação em IA & ML (PUC-Minas):**
+    * Reforça a expertise em desenvolvimento e aplicação de sistemas inteligentes (Incluída para manter a coerência com seus badges e título principal).
+</div>
+
+---
+
+## 🚀 Stack de Desenvolvimento 
+
+Minhas competências abrangem desde linguagens de sistemas legados até tecnologias de Inteligência Artificial e análise de dados.
+
+<div align="center" style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java Badge"/>
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge"/>
+    <img src="https://img.shields.io/badge/RPA%2FHiperautomação-FF4500?style=flat&logo=uipath&logoColor=white" alt="RPA e Hiperautomação Badge"/>
+    <img src="https://img.shields.io/badge/COBOL-003366?style=flat&logo=ibm&logoColor=white" alt="COBOL Badge"/>
+    <img src="https://img.shields.io/badge/IA%20(LLM)-555555?style=flat&logo=openai&logoColor=white" alt="LLM / Inteligência Artificial Badge"/>
+    <img src="https://img.shields.io/badge/Big%20Data-FF69B4?style=flat&logo=apachespark&logoColor=white" alt="Big Data Analytics Badge"/>
+    <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white" alt="SQL Badge"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git Badge"/>
+</div>
+<br>
+
+---
+
+## 💡 Áreas de Pesquisa e Projetos de Impacto
+
+Minha carreira foca no desenvolvimento de soluções de **Tecnologia Assistiva**, promovendo autonomia, e em projetos estratégicos que se cruzam com as principais áreas de estudo da Computação:
+
+Minha carreira foca no desenvolvimento de soluções de **Tecnologia Assistiva**, promovendo autonomia, e em projetos estratégicos que se cruzam com as principais áreas de estudo da Computação:
+
+<div style="margin: 0 auto; max-width: 650px;">
+    
+### Inteligência Artificial (IA) e Ética em Pesquisa
+
+* Meu projeto de tese em andamento na Pós-Graduação foca na **análise ética no desenvolvimento e aplicação de IA**, alinhando-se diretamente à **Robótica e Inteligência de Máquina**.
+
+###  Sistemas de Dados, Saúde 
+
+* O projeto de **Saúde Mobile com IA & ** envolve uma integração de sistemas e análise de dados clínicos, conectando-se a **Sistemas Distribuídos** e **Gestão de Grandes Volumes de Dados**.
+
+###  Sustentabilidade, Mapeamento e Desenvolvimento de Software
+
+* O projeto **"Kallos kai Poikillia" (L'Oréal)** demonstrou experiência em **Engenharia de Software** e reformulação de plataformas inclusivas, com foco em **Desenvolvimento Sustentável**, acessibilidade digital e **IHC**.
+* Projeto focado em mapear áreas para reflorestamento e monitorar o impacto ambiental em áreas atingidas, utilizando **Gestão de Grandes Volumes de Dados** e **Sistemas de Computação**.
+
+###  Liderança e Diversidade
+
+* Atuação como mentora no **Inovathon WTM 2025**, orientando equipes em **soluções sustentáveis ​​e inclusivas**, reforçando o compromisso com o impacto social e a **equidade**.
 </div>
 
 
+---
 
-## 🤝 How to find me:
+## 📞 Contato Profissional
 
-Feel free to send me a message or connect with me on social media below! I love collaborating on open-source projects or chatting about software development.
+Convido a conectar-se para discutir oportunidades acadêmicas, de pesquisa ou de colaboração em projetos de código aberto.
 
-**Thanks for visiting my GitHub profile!** 😄
+<div align="center">
+    <a href="https://www.linkedin.com/in/andreia-souza-626a75laa" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Andreia Souza">
+    </a>
+    <a href="mailto:andreiasouzasantana2@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+    </a>
+</div>
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreiasouzasantana/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/an.dreiasou?igsh=MW5vc3N1cXRsaWFvcQ%3D%3D&utm_source=qr)
-
-
-
+<br>
+<p align="center">
+    Agradeço a visita ao meu perfil e o interesse em minha trajetória acadêmica e profissional.
+</p>
