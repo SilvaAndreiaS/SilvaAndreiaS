@@ -18,7 +18,7 @@
 
 
 
-## 🚀 Stack de Desenvolvimento 
+##  Stack de Desenvolvimento 
 
 Minhas competências abrangem desde linguagens de sistemas legados até tecnologias de Inteligência Artificial e análise de dados.
 
